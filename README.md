@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.assets/images/result-qr.jpg)
+![](./assets/images/result-qr.jpg)
 
 ### Links
 
 - Solution URL: https://github.com/elemenceOR/QR-code-component/tree/main
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://main--unique-cobbler-bdf63d.netlify.app/
 
 ## My process
 
